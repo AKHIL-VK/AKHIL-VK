@@ -1,57 +1,46 @@
-Hi, I'm Akhil 👋
-Developer | Problem Solver | Tech Enthusiast
-I'm a developer interested in building useful applications, learning modern technologies, and solving real-world problems through code.
-- 💻 Interested in software development and full-stack web development
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- ☁️ Interested in cloud computing
-- 🌱 Always learning and improving my development skills
-- 🤝 Open to collaboration and learning from the developer community
-🌐 Connect with me
-<p align="left">
-  <a href="https://github.com/AKHIL-VK">
-    <img src="https://img.shields.io/badge/GitHub-AKHIL--VK-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <!-- Add your LinkedIn, portfolio, or other social links here -->
-</p>🧰 Tech Stack
-Programming languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" alt="Java, Python, JavaScript, C, C++" />
-</p>Web development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" alt="HTML, CSS, React, Node.js" />
+<div align="center">Hi, I'm Akhil 👋
+Backend Developer | Java · Python · Node.js
+I build backend-focused applications and enjoy designing APIs, working with databases, and solving problems through code.
+
+
+</div>👨‍💻 About Me
+- Backend-focused developer interested in building reliable server-side applications.
+- Work with Java, Python, and JavaScript.
+- Interested in API development, database design, and backend application architecture.
+- Exploring Artificial Intelligence / Machine Learning and Cloud Computing.
+- Continuously improving my data structures, algorithms, and software development skills.
+- Open to collaboration and learning from the developer community.
+🧰 Tech Stack
+Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" alt="Java, Python, JavaScript, C and C++" />
+</p>Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+</p>Backend interests: REST APIs · Server-side development · Database integration
+Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS and React" />
 </p>Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
 </p>Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code" />
-</p>Areas I'm exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code" />
+</p>Currently Exploring
 - Artificial Intelligence and Machine Learning
-- Cloud computing
-- Full-stack development
-📊 GitHub stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AKHIL-VK&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Akhil's GitHub statistics"
-  />
-</p><p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL-VK&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Akhil's most-used languages"
-  />
-</p><p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AKHIL-VK&theme=tokyonight&hide_border=true"
-    alt="Akhil's GitHub contribution streak"
-  />
-</p>📈 Contribution activity
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-VK&theme=tokyo-night&hide_border=true"
-    alt="Akhil's GitHub contribution activity graph"
-  />
-</p><p align="center">
-  <b>Thanks for visiting my profile!</b><br />
-  <i>Keep learning. Keep building. Keep growing. 🚀</i>
-</p>
+- Cloud Computing
+- Backend frameworks and scalable application design
+💻 Coding Profiles
+<p>
+  <a href="https://leetcode.com/u/Sarally_2024/">
+    <img src="https://img.shields.io/badge/LeetCode-Sarally__2024-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
+  </a>
+  <a href="https://github.com/AKHIL-VK">
+    <img src="https://img.shields.io/badge/GitHub-AKHIL--VK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</p>📊 GitHub Statistics
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=AKHIL-VK&show_icons=true&theme=tokyonight&hide_border=true" alt="Akhil's GitHub statistics" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL-VK&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" /><img src="https://streak-stats.demolab.com?user=AKHIL-VK&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /></div>📈 Contribution Activity
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-VK&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" /></div><div align="center">Thanks for visiting my profile!
+Keep learning. Keep building. Keep growing. 🚀
+</div>
