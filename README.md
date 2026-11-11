@@ -1,127 +1,55 @@
-# Hi, I'm Akhil! 👋
+<div align="center">Hi, I'm Akhil! 👋
+Backend Developer | Java · Python · Node.js
+I enjoy building backend applications, working with APIs and databases, and solving problems through code.
 
-### 💻 Backend Developer | Problem Solver | Tech Enthusiast
 
-I'm a passionate developer interested in building useful applications, exploring new technologies, and solving real-world problems through code.
-
-- 🔭 Exploring Backend Development and AI/ML
-- 🌱 Continuously learning new tools, frameworks, and technologies
+</div>👨‍💻 About Me
+- 🔭 Exploring backend development and AI/ML
+- 🌱 Learning new tools, frameworks, and technologies
 - 💡 Interested in software development, cloud computing, and problem solving
-- 🎯 Focused on improving my programming and development skills
 - 🤝 Open to collaboration and open-source contributions
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/AKHIL-VK" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/Sarally_2024/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack & Tools
-
-### 👨‍💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" alt="Programming Languages" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend Development" />
-</p>
-
-### 🌐 Web Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Web Development" />
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
-</p>
-
-### 🛠️ Developer Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools" />
-</p>
-
-### 🤖 Areas of Interest
-
-- Artificial Intelligence & Machine Learning
+🧰 Tech Stack
+Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" alt="Java, Python, JavaScript, C, C++" />
+</p>Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+</p>Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" />
+</p>Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB" />
+</p>Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
+</p>Areas of Interest
+- Artificial Intelligence and Machine Learning
 - Cloud Computing
-- Backend Development
-- Full Stack Development
-- Data Structures & Algorithms
+- Backend and Full Stack Development
+- Data Structures and Algorithms
 - Software Engineering
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKHIL-VK&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-</p>
+🔗 Coding Profiles
+- GitHub: AKHIL-VK
+- LeetCode: Sarally_2024
+📊 GitHub Statistics
+If the cards below do not load, the third-party stats service may be temporarily unavailable. Your GitHub profile and contribution calendar are unaffected.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL-VK&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AKHIL-VK&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL-VK&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AKHIL-VK&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=AKHIL-VK&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</p>📈 Contribution Activity
+GitHub's native contribution calendar is shown on my profile:
 
----
+View my GitHub contribution calendar
+🚀 Projects
+Explore all my repositories
+<div align="center">Thanks for visiting my profile!
 
-## 💡 LeetCode Profile
-
-<p align="center">
-  <a href="https://leetcode.com/u/Sarally_2024/">
-    <img src="https://img.shields.io/badge/Visit_My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-</p>
-
-I regularly work on improving my problem-solving skills and strengthening my understanding of Data Structures and Algorithms.
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-VK&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
-</p>
-
----
-
-## 🚀 My GitHub Repositories
-
-Explore my projects and contributions:
-
-<p align="center">
-  <a href="https://github.com/AKHIL-VK?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>💙 Thanks for visiting my profile!</b>
-  <br/>
-  <i>Keep Learning. Keep Building. Keep Growing. 🚀</i>
-</p>
+Keep learning. Keep building. Keep growing. 🚀
+</div>
