@@ -1,23 +1,24 @@
 <div align="center">Hi, I'm Akhil 👋
 Backend Developer | Java · Python · Node.js
-I build backend-focused applications and enjoy designing APIs, working with databases, and solving problems through code.
+I enjoy building backend applications, working with databases and APIs, and solving problems through code. I'm continuously improving my software engineering skills and exploring AI/ML and cloud technologies.
 
 
 </div>👨‍💻 About Me
-- Backend-focused developer interested in building reliable server-side applications.
-- Work with Java, Python, and JavaScript.
-- Interested in API development, database design, and backend application architecture.
-- Exploring Artificial Intelligence / Machine Learning and Cloud Computing.
-- Continuously improving my data structures, algorithms, and software development skills.
-- Open to collaboration and learning from the developer community.
+- 💻 Backend-focused developer interested in building reliable server-side applications.
+- 🧩 Work with Java, Python, and JavaScript.
+- 🔌 Interested in REST APIs, server-side development, and database integration.
+- 🗄️ Familiar with MySQL and MongoDB.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- ☁️ Interested in Cloud Computing.
+- 🌱 Always learning, building, and improving.
 🧰 Tech Stack
-Languages
+Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" alt="Java, Python, JavaScript, C and C++" />
 </p>Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-</p>Backend interests: REST APIs · Server-side development · Database integration
+</p>Areas of interest: REST APIs · Server-side development · Database integration
 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS and React" />
@@ -31,16 +32,14 @@ Frontend
 - Artificial Intelligence and Machine Learning
 - Cloud Computing
 - Backend frameworks and scalable application design
-💻 Coding Profiles
-<p>
-  <a href="https://leetcode.com/u/Sarally_2024/">
-    <img src="https://img.shields.io/badge/LeetCode-Sarally__2024-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
-  </a>
-  <a href="https://github.com/AKHIL-VK">
-    <img src="https://img.shields.io/badge/GitHub-AKHIL--VK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-</p>📊 GitHub Statistics
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=AKHIL-VK&show_icons=true&theme=tokyonight&hide_border=true" alt="Akhil's GitHub statistics" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL-VK&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" /><img src="https://streak-stats.demolab.com?user=AKHIL-VK&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /></div>📈 Contribution Activity
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-VK&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" /></div><div align="center">Thanks for visiting my profile!
+🧠 Coding Profiles
+- GitHub: github.com/AKHIL-VK
+- LeetCode: leetcode.com/u/Sarally_2024
+📌 Featured Repositories
+Explore my repositories: github.com/AKHIL-VK?tab=repositories
+📈 GitHub Activity
+GitHub automatically displays my contribution calendar on my profile.
+View my GitHub contribution activity
+<div align="center">Thanks for visiting my profile!
 Keep learning. Keep building. Keep growing. 🚀
 </div>
